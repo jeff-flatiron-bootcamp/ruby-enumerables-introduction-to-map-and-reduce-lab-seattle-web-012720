@@ -33,6 +33,7 @@ def map_to_square(source_array)
   square_array
 end
 
+<<<<<<< HEAD
 
 def reduce_to_total(source_array, starting_point = 0)
   array_index = 0
@@ -68,3 +69,15 @@ def reduce_to_any_true(source_array)
   end
   return_val
 end
+=======
+def reduce_to_total(source_array, starting_point = 0)
+  puts "hello this is a test"
+end
+
+
+#def reduce_to_all_true(source_array) 
+#end
+
+#def reduce_to_any_true(source_array)
+#end
+>>>>>>> c62a007f62023531ec1cb4d5f33cf366c57e1749
